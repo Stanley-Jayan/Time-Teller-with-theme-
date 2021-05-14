@@ -10,7 +10,7 @@ var hour;
 var bg = "sunrise1.png";
 
 function preload() {
-    // create getBackgroundImg( ) here
+    // create getBackgroundImg( )here
     getBackgroundImg();
 }
 
